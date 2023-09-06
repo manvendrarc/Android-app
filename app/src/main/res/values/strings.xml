@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Splash-Project-Manvendra</string>
+    <string name="welcome_to_onebanc">Welcome!</string>
+    <string name="button">Get Started</string>
+    <string name="let_s_join_hands_in_the_journey_ntowards_financial_wellness">Let\'s join hands in the journey \ntowards financial wellness</string>
+    <string name="textview">Banking Partner</string>
+    <string name="we_need_few_permissions_for_seamless_account_opening_journey">We need few permissions for \nseamless account opening journey</string>
+    <string name="phone_identity">Phone Identity</string>
+    <string name="we_need_this_access_to_verify_vour_mobile_number">We need this access to verify vour \nmobile number</string>
+    <string name="sms">SMS Read</string>
+    <string name="cam">Camera</string>
+    <string name="mic">Microphone</string>
+    <string name="location">Location</string>
+    <string name="permbtn">Grant Permission</string>
+</resources>

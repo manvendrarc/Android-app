@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="camera" transform="translate(0 -0.04)">
+    <g id="Rectangle_5116" data-name="Rectangle 5116" transform="translate(0 0.04)" fill="#3d345a" stroke="#d5d5d5" stroke-width="1">
+      <rect width="50" height="50" rx="25" stroke="none"/>
+      <rect x="0.5" y="0.5" width="49" height="49" rx="24.5" fill="none"/>
+    </g>
+    <path id="Path_34320" data-name="Path 34320" d="M10.829,42a3.553,3.553,0,0,0-3.258,2.032c-.264.629-.527,1.265-.79,1.9H5.929A3.81,3.81,0,0,0,2,49.661V60.071A3.937,3.937,0,0,0,5.929,64H20.071A3.937,3.937,0,0,0,24,60.071V49.661a3.81,3.81,0,0,0-3.929-3.732H19.22l-.78-1.874A3.489,3.489,0,0,0,15.171,42ZM13,49.857a4.714,4.714,0,1,1-4.714,4.714A4.726,4.726,0,0,1,13,49.857Zm6.286,0a.786.786,0,1,1-.786.786A.786.786,0,0,1,19.286,49.857Z" transform="translate(12 -27.96)" fill="#fff"/>
+  </g>
+</svg>

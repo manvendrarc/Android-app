@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="52" viewBox="0 0 68 52">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0.324" stop-color="#a2a2a2"/>
+      <stop offset="0.628" stop-color="#cfcfcf"/>
+      <stop offset="0.963" stop-color="#848484"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#95762b"/>
+      <stop offset="0.514" stop-color="#edc87d"/>
+      <stop offset="1" stop-color="#95762b"/>
+    </linearGradient>
+    <clipPath id="clip-OneBanc-Logo">
+      <rect width="68" height="52"/>
+    </clipPath>
+  </defs>
+  <g id="OneBanc-Logo" clip-path="url(#clip-OneBanc-Logo)">
+    <g id="Group_1" data-name="Group 1" transform="translate(-162.437 -267.583)">
+      <path id="Path_1" data-name="Path 1" d="M535.07,743.18a21.621,21.621,0,0,1-3.063-7.371A20.245,20.245,0,0,0,535.07,743.18Z" transform="translate(-340.849 -431.838)" opacity="0.27"/>
+      <path id="Path_2" data-name="Path 2" d="M547.786,297.667q.045.454.062.908l.039,1.262a9.7,9.7,0,1,0,.73-3.7A21.375,21.375,0,0,0,538.187,282V267.583h0a9.7,9.7,0,0,1,9.7,9.707v5.73a19.419,19.419,0,1,1-9.7,16.971h0V283.056a20.045,20.045,0,0,1,9.6,14.611" transform="translate(-346.549)" fill="url(#linear-gradient)"/>
+      <path id="Path_3" data-name="Path 3" d="M194.491,463.641a26.342,26.342,0,0,1-3.522-8.19,9.719,9.719,0,1,1,.581-3.318q0,.265-.014.527a20.464,20.464,0,0,0,4.954,12.221,19.441,19.441,0,1,0-.538.593A16.942,16.942,0,0,1,194.491,463.641Z" transform="translate(0 -152.293)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="tick" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Rectangle_5116" data-name="Rectangle 5116" fill="#26bb48" stroke="#d5d5d5" stroke-width="1">
+    <rect width="30" height="30" rx="15" stroke="none"/>
+    <rect x="0.5" y="0.5" width="29" height="29" rx="14.5" fill="none"/>
+  </g>
+  <path id="Path_11182" data-name="Path 11182" d="M97.265,132.727a.772.772,0,0,1-.6-.255l-3.177-3.263a.843.843,0,1,1,1.22-1.163l2.582,2.667,5.447-5.163a.843.843,0,0,1,1.163,1.22L97.861,132.5A.975.975,0,0,1,97.265,132.727Z" transform="translate(-83.5 -113.909)" fill="#fff"/>
+</svg>
